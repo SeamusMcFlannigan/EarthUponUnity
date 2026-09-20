@@ -1,2 +1,12 @@
-# EarthUponUnity
-This is big. Currently manned by only myself, I am using open source 3D models and my own brain to design America, possibly the Earth, in Unity, as a playable "American Truck Simulator"-type game, starting from my hometown of Reno, NV, and working out.
+{\rtf1\ansi\ansicpg1252\cocoartf2907
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 README.md\
+\
+Hello, this file is simply meant to allow me to commit changes to GitHub, since it doesn\'92t allow me files larger than 25MB, and even some of my logs are larger than that.\
+\
+All of my files are wrapped into one big ol\'92 ZIP on the Internet Archive}
